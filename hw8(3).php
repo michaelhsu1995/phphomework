@@ -2,7 +2,7 @@
 session_start();
 if(isset($_SESSION["success"])){
 	echo "歡迎進入一般使用者<br>";
-	echo "<a href='hw8(5).php'>登出</a>";
+	echo "<a href='week8(5).php'>登出</a>";
 
 }
 else{
