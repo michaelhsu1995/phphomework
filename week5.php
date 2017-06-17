@@ -4,7 +4,7 @@
 	<title>hw5(2).php</title>
 </head>
 
-<form action="hw5(2).php" method="POST">
+<form action="week5(2).php" method="POST">
 請選擇月份：
 <br>
 <input type="radio" name="month" value="January">一月<br/>
