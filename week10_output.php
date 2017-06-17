@@ -1,5 +1,5 @@
 <?php 
-    echo "<form action = 'hw10_upload.php' method = 'post'>";
+    echo "<form action = 'week10_upload.php' method = 'post'>";
     $n = $_POST["count"]; 
     $count = implode($n);
     //echo $number;
