@@ -24,11 +24,11 @@ if($userid==$tuserid && $password==$tpassword){
 //  echo "successful logined";
 	$_SESSION["success"]="yes";
 	setcookie("id",$userid,$date);
-	header("Location:hw8(3).php");
+	header("Location:week8(3).php");
 }
 else{
 	echo "fail<br>";
-	header("refresh:3;url=hw8.php");
+	header("refresh:3;url=week8.php");
 	echo "sessionID:".session_id();
 }
 
@@ -44,11 +44,11 @@ if($userid==$tuserid && $password==$tpassword){
 //  echo "successful logined";
 	$_SESSION["success"]="yes";
 	setcookie("id",$userid,$date);
-	header("Location:hw8(4).php");
+	header("Location:week8(4).php");
 }
 else{
 	echo "fail<br>";
-	header("refresh:3;url=hw8.php");
+	header("refresh:3;url=week8.php");
 	echo "sessionID:".session_id();
 }
 
