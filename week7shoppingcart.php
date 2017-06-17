@@ -47,8 +47,8 @@ echo "==========================================";
 
 </table>
 			<hr/>
-			|<a href="hw7catalog.php">商品目錄<a>|
-			<a href="hw7shoppingcart.php">查看購物車<a>|
+			|<a href="week7catalog.php">商品目錄<a>|
+			<a href="week7shoppingcart.php">查看購物車<a>|
 
 </body>
 </html>
