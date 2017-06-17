@@ -9,7 +9,7 @@
 <body>
 請選擇上傳檔案數量：
 
-        <form action = "hw10_output.php" method = "POST">
+        <form action = "week10_output.php" method = "POST">
 
 <select name="count[]">
 	<option value="1">1</option>
