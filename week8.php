@@ -6,7 +6,7 @@
 	<title>hw8</title>
 </head>
 
-<form action="hw8(2).php" method="post">
+<form action="week8(2).php" method="post">
 
 帳號<input type=text name=userid><br>
 密碼<input type=password name=pass><br>
