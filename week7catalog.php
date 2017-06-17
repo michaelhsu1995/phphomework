@@ -4,7 +4,7 @@
 	<title>catalog</title>
 </head>
 <body>
-<form action="hw7catalog.php" method="POST" >
+<form action="week7catalog.php" method="POST" >
 			選擇商品：
 				<select name="item" >
 					<option value="0001">10吋變形平板-$12000</option>
@@ -57,7 +57,7 @@
 						break;
 				}
 			
-			header("location:hw7savecart.php");
+			header("location:week7savecart.php");
 			}
 			?>
 </body>
